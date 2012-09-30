@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	624+23
+Open File for Skeinforge	/Users/santiagolopezpina/Reprap/Clone-wars/Calibration/03.20mm-box.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
