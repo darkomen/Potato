@@ -2,7 +2,7 @@ Format is tab separated skin settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Skin	
-Activate Skin	False
+Activate Skin	True
 Horizontal Infill Divisions (integer):	2
 Horizontal Perimeter Divisions (integer):	1
 Vertical Divisions (integer):	2
