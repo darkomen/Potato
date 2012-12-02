@@ -23,11 +23,11 @@ View Rotate	True
 Number of Fill Bottom Layers (integer):	1
 Number of Fill Top Layers (integer):	1
 Scale (pixels per millimeter):	7.5
-Screen Horizontal Inset (pixels):	114
+Screen Horizontal Inset (pixels):	115
 Screen Vertical Inset (pixels):	220
 Show Gcode	True
-Viewpoint Latitude (degrees):	151.2
-Viewpoint Longitude (degrees):	250.1
+Viewpoint Latitude (degrees):	124.0
+Viewpoint Longitude (degrees):	108.4
 Width of Axis Negative Side (pixels):	2
 Width of Axis Positive Side (pixels):	6
 Width of Fill Bottom Thread (pixels):	2

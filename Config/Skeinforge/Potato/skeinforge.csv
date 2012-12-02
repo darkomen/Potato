@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	400+22
-Open File for Skeinforge	/Users/santiagolopezpina/Downloads/trivase.stl
+WindowPosition	624+59
+Open File for Skeinforge	/Users/santiagolopezpina/Downloads/ikea_table_foot_openscad_src/Ikea_table_foot.stl
 analyze	False
 craft	True
 help	False

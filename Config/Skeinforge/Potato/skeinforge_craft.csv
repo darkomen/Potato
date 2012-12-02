@@ -2,6 +2,7 @@ Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	
+BAK.carve	False
 alteration	False
 bottom	False
 carve	False
