@@ -10,7 +10,7 @@
 //to THIS file by the user have been successfully uploaded into firmware.
 #define STRING_VERSION_CONFIG_H "2012-05-02" //Personal revision number for changes to THIS file.
 #define STRING_CONFIG_H_AUTHOR "erik" //Who made the changes.
-#define STRING_PRINTER "POTATO, Prusa Mendel I2"
+#define STRING_PRINTER "asadasdasdasdasda"
 // This determines the communication speed of the printer
 //#define BAUDRATE 250000
 #define BAUDRATE 115200
@@ -61,10 +61,10 @@
 // 52 is 200k thermistor - ATC Semitec 204GT-2 (1k pullup)
 // 55 is 100k thermistor - ATC Semitec 104GT-2 (Used in ParCan) (1k pullup)
 
-#define TEMP_SENSOR_0 7
+#define TEMP_SENSOR_0 0
 #define TEMP_SENSOR_1 0
 #define TEMP_SENSOR_2 0
-#define TEMP_SENSOR_BED 6
+#define TEMP_SENSOR_BED 0
 
 // Actual temperature must be close to target for this long before M109 returns success
 #define TEMP_RESIDENCY_TIME 10	// (seconds)
